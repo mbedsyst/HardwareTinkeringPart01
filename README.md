@@ -1,5 +1,5 @@
 # Hardware Tinkering Part 01
-Compex MicroHub/8 TP1008C 8-port Ethernet repeater Manual
+Tearing down a Compex MicroHub/8 TP1008C 8-port Ethernet repeater.
 
 For a detailed explanation, visit the article on my blog:
 
